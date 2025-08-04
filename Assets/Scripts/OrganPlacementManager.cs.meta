@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e2ee383d1a614874ea4c0ce3c5eccafc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - raycastManager: {instanceID: 0}
+  - arCamera: {instanceID: 0}
+  - heartPrefab: {fileID: 2053068193767645933, guid: 1bb7a8aa059ea0f49b2a93c2564b2d00, type: 3}
+  - brainPrefab: {fileID: 4067421280377970309, guid: 3808b94119a519e44b56b1e3cf41bb5c, type: 3}
+  - lungsPrefab: {fileID: 919132149155446097, guid: 6b7d7bae7027f3a41ac372de3b44740e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

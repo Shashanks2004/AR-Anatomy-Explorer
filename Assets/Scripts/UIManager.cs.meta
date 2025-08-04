@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 413941d87e45e5b47aa37d40a728bc4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenuPanel: {instanceID: 0}
+  - infoPanel: {instanceID: 0}
+  - arViewPanel: {instanceID: 0}
+  - titleText: {instanceID: 0}
+  - descriptionText: {instanceID: 0}
+  - organImage: {instanceID: 0}
+  - heartPrefab: {fileID: 2053068193767645933, guid: 1bb7a8aa059ea0f49b2a93c2564b2d00, type: 3}
+  - lungsPrefab: {fileID: 2800782983272265490, guid: 930b73f21209c184d85ef82b7c74e3d1, type: 3}
+  - brainPrefab: {fileID: 4067421280377970309, guid: 3808b94119a519e44b56b1e3cf41bb5c, type: 3}
+  - heartSprite: {instanceID: 0}
+  - lungsSprite: {instanceID: 0}
+  - brainSprite: {instanceID: 0}
+  - organSpawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
